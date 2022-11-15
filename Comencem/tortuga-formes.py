@@ -19,11 +19,5 @@ elif a == "rectangle":
         left(90)
         forward(c)
         left(90)
-else: pass
-
-
-
-
-
-
+        
 done()
