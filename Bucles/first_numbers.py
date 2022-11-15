@@ -1,3 +1,5 @@
 from yogi import read
-a = read(int)
-b = read(int)
+n = read(int)
+for i in range(n): 
+  print(i)
+print(n)
